@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dash"
+        android:title=""
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        />
+
+    <item
+        android:id="@+id/plan"
+        android:title=""
+        android:icon="@drawable/ic_web_black_24dp"
+        />
+
+    <item
+        android:id="@+id/mainmenu"
+        android:title=""
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        />
+
+    <item
+        android:id="@+id/chat"
+        android:title=""
+        android:icon="@drawable/ic_comment_black_24dp"
+        />
+
+</menu>
